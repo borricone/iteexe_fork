@@ -1,0 +1,8 @@
+body{
+  background:#DFF1FF;
+  font-family: 'Arial', sans-serif;
+  margin:0;
+}
+#game{
+  min-height:100vh;
+}
